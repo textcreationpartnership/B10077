@@ -1,0 +1,1168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable thoughts in Passion-week. By J.S.</title>
+            <author>Stearne, John, 1660-1745.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10077</idno>
+            <idno type="OCLC"> 80923928</idno>
+            <idno type="STC">Wing S5359</idno>
+            <idno type="STC">ESTC R184614</idno>
+            <idno type="EEBO-CITATION">80923928</idno>
+            <idno type="OCLC">ocm 80923928</idno>
+            <idno type="VID">192029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192029)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2898:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable thoughts in Passion-week. By J.S.</title>
+                  <author>Stearne, John, 1660-1745.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray, on Colledg [sic] Green ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse, with marginal notes.</note>
+                  <note>Reproduction of original in the Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Passion --  Poetry --  Early works to 1800.</term>
+               <term>English poetry --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192029:1" rendition="simple:additions"/>
+            <p>SEASONABLE THOUGHTS IN PASSION-WEEK.</p>
+            <p>By <hi>J.S.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1.</hi> Cor. <hi>9.22.</hi>
+               </bibl>
+               <p>I am made all things to all men, that I may ſave ſome.</p>
+            </q>
+            <lg>
+               <head>
+                  <hi>Dr.</hi> Jam. Gardiner.</head>
+               <l>
+                  <hi>Whoever a true Worſhipper wou'd be,</hi>
+               </l>
+               <l>
+                  <hi>Was taught his Duty firſt by</hi> Poeſie.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Mr.</hi> G: Herbert.</head>
+               <l>
+                  <hi>A</hi> Verſe <hi>may find him, who a</hi> Sermon <hi>flies,</hi>
+               </l>
+               <l>
+                  <hi>And turn Delight into a Sacrifice.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Joſeph Ray,</hi> on <hi>Colledg Green,</hi> and are to be ſold by the Book ſellers in <hi>Dublin.</hi> 1691.</p>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:192029:2"/>
+            <pb facs="tcp:192029:2"/>
+            <head>THE ARGUMENT.</head>
+            <lg>
+               <l>
+                  <note n="a" place="margin">Joh. 12.23.27. 1 Pet. 1.20. Matt. 26.45. Joh. 17.1. Acts. 4.28. Luk. 22.22.</note> 
+                  <hi>The</hi> Hour <hi>is come in which God long Deſign'd</hi>
+               </l>
+               <l>
+                  <hi>His</hi> only Son <hi>shou'd die to ſave Mankind;</hi>
+               </l>
+               <l>
+                  <hi>The Hour in which Heave'n
+<note n="b" place="margin">Gen. 3.15.</note> openly Decreed</hi>
+               </l>
+               <l>(<hi>On</hi> Adam's
+<note n="*" place="margin">Grego.</note> happy Fall) <hi>the</hi> Woman's Seed</l>
+               <l>
+                  <hi>Shou'd</hi> bruiſe the Serpents Head; <hi>that wondrous Hour</hi>
+               </l>
+               <l>
+                  <hi>Both of the'
+<note n="c" place="margin">Joh. 10.18.</note> Almighty's and the
+<note n="d" place="margin">Luk. 22 53.</note> Devil's Pow'r,</hi>
+               </l>
+               <l>
+                  <hi>Is come:
+<note n="e" place="margin">Matt. 4. to 11. Luk. 22.3.</note> the Devil aſſault's, then vanquish'd lies;</hi>
+               </l>
+               <l>
+                  <note n="f" place="margin">Iſa. 53.7. Matt. 26.52, 53.54. Phil. 2.7, 8.</note> 
+                  <hi>God-man Submit's awhile and ſilent</hi> dies;</l>
+               <l>
+                  <note n="g" place="margin">Rom: 6.9, 10 Revel: 1.18.</note> 
+                  <hi>But then does an Eternal Conque'rour</hi> riſe.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:192029:3"/>
+            <pb n="5" facs="tcp:192029:3"/>
+            <head>SEASONABLE THOUGHTS IN PASSION-WEEK.</head>
+            <lg>
+               <head>I.</head>
+               <l>'TIs ſtrange <hi>Chief Prieſts</hi> &amp; <hi>Scribes</hi> ſuch Fools ſhou'd be</l>
+               <l>To
+<note n="a" place="margin">Luk. 22 2.</note> dread Man more than the Divinity!</l>
+               <l>
+                  <note n="b" place="margin">Luk 19.47, 48 Mar: 11:18.</note> With ſome Pretence they Plot to kill the Heir;</l>
+               <l>Becauſe they did the' <hi>admiring People fear;</hi>
+               </l>
+               <l>Altho' their bloody cloſe Hypocriſy</l>
+               <l>
+                  <note n="c" place="margin">Heb. 4.13.</note> Lay naked unto God's All-ſeeing Eye.</l>
+               <l>So we, while worldly Int'ereſt does diſſwade</l>
+               <l>From ſin, unwillingly are honeſt made:</l>
+               <l>A Childe does more our looſeſt Thoughts controul</l>
+               <l>Than God,
+<note n="d" place="margin">Gen. 1.26, 27</note> who made and can
+<note n="e" place="margin">Mat. 10:28.</note> deſtroy the Soul.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>
+                  <note n="a" place="margin">Mat. 26:15.</note> 
+                  <hi>What will ye give? Judas,</hi> what Queſtion's this?</l>
+               <l>
+                  <note n="b" place="margin">Matt. 16:26.</note> What ſhou'd man take for everlaſting Bliſs?</l>
+               <l>For Toys the Indi'ans give their common Gold;</l>
+               <l>But Thou, <hi>for Thirty Pieces,</hi> God haſt Sold:</l>
+               <l>
+                  <hi>Pagans,</hi> in ſuch a fond Exchange, may be</l>
+               <l>Judg'd to act wiſely, when compar'd with Thee.</l>
+               <pb n="6" facs="tcp:192029:4"/>
+               <l>With Cov'etous Hearts what cannot <hi>Silver</hi> do?</l>
+               <l>Chriſt it buys from them, and gets Heaven too.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>When the worlds Savi'our freely condeſcend's</l>
+               <l>
+                  <note n="a" place="margin">Luk 22.14.</note> To make mean <hi>Fiſhermen</hi> his choiceſt Friends,</l>
+               <l>How can we without Joy and Wonder ſee</l>
+               <l>Such kind Complyance of Humility!</l>
+               <l>It can't diſgrace men in the Higheſt State,</l>
+               <l>The Son of God himſelf to
+<note n="b" place="margin">Joh. 12.26, 13: 15. Matr. 11: 29</note> imitate:</l>
+               <l>Yet Mortals, as they rich and higher grow,</l>
+               <l>With
+<note n="c" place="margin">Pſal. 73.6. Pro. 13: 23. Jam. 2.3.</note> Scornfull Eyes look down on all below:</l>
+               <l>
+                  <note n="d" place="margin">Luk. 16.21, 22.</note> 
+                  <hi>Dogs</hi> feed within, but <hi>Chriſti'ans</hi> at their Door;</l>
+               <l>As if we 'had better be <hi>
+                     <g ref="char:V">Ʋ</g>n-man'd</hi> than <hi>Poor.</hi>
+               </l>
+               <l>
+                  <note n="e" place="margin">Pro. 14 20, 19 4.</note> We value men for what they do poſſeſs,</l>
+               <l>
+                  <note n="f" place="margin">Act 20.35. Pro. 12.26.</note> But God eſteems them moſt for Holineſs.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>
+                  <note n="a" place="margin">Matt. 26.47.</note> A Murd'ering <hi>Band,</hi> O <hi>Judas!</hi> can'ſt thou Head,</l>
+               <l>And without trembling,
+<note n="b" place="margin">Matt. 26.20.26.</note> take the <hi>Sacred Bread?</hi>
+               </l>
+               <l>Life's Food, to thee, is into Poyſon curſt;</l>
+               <l>
+                  <hi>Eat</hi> it thou may'ſt;
+<note n="c" place="margin">Mat. 27.3.</note> 
+                  <hi>drink</hi> too; <hi>Repent</hi> and
+<note n="d" place="margin">Act. 1.18. Mat. 27.5.</note> 
+                  <hi>Burſt;</hi>
+               </l>
+               <l>And then in everlaſting Burnings Thirſt:</l>
+               <l>
+                  <note n="e" place="margin">Luk. 16.24.</note> To <hi>Abraham,</hi> in vain, for ever pray</l>
+               <l>For <hi>one cool Drop,</hi> thy Torments to allay.</l>
+               <l>Conſcience, (awake at laſt) will make Thee own</l>
+               <l>
+                  <note n="f" place="margin">Matt. 27.4.</note> 
+                  <hi>'Twas I betray'd the Lord,</hi> 'twas I alone.</l>
+               <l>Damn'd Hypocrite! who did'ſt thy Wit employ</l>
+               <l>
+                  <note n="g" place="margin">Iob. 1 29. 1. Pet 1.19.</note> 
+                  <hi>The Spetleſs Lawb of Ged</hi> for to deſtroy.</l>
+               <pb n="7" facs="tcp:192029:4"/>
+               <l>How did'ſt thou act two Parts to gain that end,</l>
+               <l>A real Traytor and a ſeeming Friend!</l>
+               <l>Yet be <hi>Apoſtle</hi> ſtill; and teach us all</l>
+               <l>How to prevent our own by thy ſad Fall;</l>
+               <l>Leſt when we're rais'd to any higher Place,</l>
+               <l>Our Fall ſhou'd be expos'd to-more diſgrace.</l>
+               <l>Teach us
+<note n="h" place="margin">Luk. 14.16, 17. 1 Cor. 5.8.</note> when Chriſt invite's us to his Feaſts,</l>
+               <l>All way to come, and come
+<note n="i" place="margin">1 Cor. 11. 27, 28, 29.</note> prepared Gueſts;</l>
+               <l>With Souls from Cove'tous Thoughts and Malice free,</l>
+               <l>Still to receive the <hi>Holy Myſtery.</hi>
+               </l>
+               <l>From Thee we learn, when Sin gain's any Part,</l>
+               <l>Satan takes Courage to aſſault the Heart:</l>
+               <l>As when the outward Walls are beaten down</l>
+               <l>A Conqu'erour enters and deſtroy's the Town.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>
+                  <note n="a" place="margin">Gen. 22.1.</note> Almighty God, when he reſolv'd to <hi>prove</hi>
+               </l>
+               <l>And ſignalize the
+<note n="b" place="margin">Gal. 3.9.</note> 
+                  <hi>Faithfull Abra'ham's Love,</hi>
+               </l>
+               <l>Oblig'd him (after all that he had done,)</l>
+               <l>To
+<note n="c" place="margin">Gen. 22.2.</note> offer his <hi>belov'd</hi> his <hi>only Son;</hi>
+               </l>
+               <l>A Son, the ſorrow at whoſe Death might be</l>
+               <l>Great as the
+<note n="d" place="margin">Gen. 21.6, 7, 8.</note> Joy of his <hi>Nativity.</hi>
+               </l>
+               <l>
+                  <note n="e" place="margin">Gen. 22. from 3. to 10.</note> Yet <hi>Abra'ham God</hi>'s, and <hi>Iſa'ac Abra'ham's,</hi> will</l>
+               <l>In that ſevere Injunction, did fulfill:</l>
+               <l>And when a <hi>Savi'our,</hi> God from Heaven ſent,</l>
+               <l>He prov'd his Love by his <hi>own
+<note n="f" place="margin">Gen. 22.12.</note> Argument.</hi>
+               </l>
+               <l>
+                  <note n="g" place="margin">Heb. 11.17.</note> 
+                  <hi>Abra'ham's</hi> Intent'ion was his <hi>Sacrifice;</hi>
+               </l>
+               <l>But <hi>Chriſt's</hi> can't be receiv'd unleſs he dies:</l>
+               <pb n="8" facs="tcp:192029:5"/>
+               <l>Yet he thus pay's the duty of a Son,</l>
+               <l>
+                  <note n="h" place="margin">Luk. 22.42.</note> 
+                  <hi>O Father, not my will, but thine be done.</hi>
+               </l>
+               <l>True Love does with the hardeſt Terms comply;</l>
+               <l>Making us pleaſ'd to live, and free to die:</l>
+               <l>Chriſt's Love bore all, untill It overcame</l>
+               <l>A
+<note n="i" place="margin">Iſa. 53.3, 4.</note> Life of ſorrow and a
+<note n="k" place="margin">Heb. 12.2.</note> Death of Shame.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>One Place (at diff'erent times) the Scene may be</l>
+               <l>Of great Unhappineſs and Felicity:</l>
+               <l>
+                  <note n="a" place="margin">Gen. 3.</note> Man, in the <hi>Garden,</hi> Heaven forfeited;</l>
+               <l>
+                  <note n="b" place="margin">Ioh. 18.1. Mart. 26.36.</note> There, to regain it,
+<note n="c" place="margin">L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k. 22.44. Act 20.28</note> God his Blood did ſhed:</l>
+               <l>
+                  <note n="d" place="margin">Mut. 26 37.</note> There, firſt his Soul with ſorrow was oppreſt;</l>
+               <l>
+                  <note n="e" place="margin">Ioh. 19.41, 42.</note> There, from his Toils, he in the Grave did reſt.</l>
+               <l>In <hi>flow'ry Walks</hi> then we ſhou'd meditate</l>
+               <l>On <hi>Adam</hi>'s Sin, and on our <hi>Savio'ur</hi>'s Fate:</l>
+               <l>In them (tho' we,
+<note place="margin">2 Kin. 21.15.</note> with <hi>Joſeph,</hi> cannot have</l>
+               <l>Our <hi>Tomb</hi>) we may think daily on our <hi>Grave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>If deep Concern, to overloaded Eyes,</l>
+               <l>(Life's great Reſtorer) balmy ſleep denies,</l>
+               <l>Sure
+<note n="a" place="margin">Iſa. 63.3.5.</note> God ordain'd none ſhou'd Chriſt's <hi>Burden</hi> bear,</l>
+               <l>(That none the <hi>Glory</hi> of his Death might ſhare)</l>
+               <l>Since all your Grief had not ſuffici'ent Powe'r,</l>
+               <l>To
+<note n="b" place="margin">Matt. 26.38.40, 45.</note> keep your Eyes a wake for him <hi>one Hour.</hi>
+               </l>
+               <l>
+                  <hi>The Hour is come;</hi> his Soul'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, with Grief oppreſt;</l>
+               <l>
+                  <hi>Sleep on Diſciples now, and take your Reſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:192029:5" rendition="simple:additions"/>
+               <head>VIII.</head>
+               <l>To ſervent Pray'er how great an Enemy</l>
+               <l>Are Crowds of Buſi'neſs and of Company!</l>
+               <l>Well, therefore, are we' inſtructed what to do</l>
+               <l>By our Lord's
+<note n="a" place="margin">Matt. 6 6.</note> 
+                  <hi>Doctrine</hi> and his
+<note n="b" place="margin">Luk. 22.42.</note> 
+                  <hi>Practice</hi> too:</l>
+               <l>When thou wou'd'ſt <hi>Pray,</hi> from all the world be gone,</l>
+               <l>And in thy <hi>Cloſet</hi> meet thy God alone;</l>
+               <l>Who number's
+<note n="c" place="margin">Pſal. 56.8. Iſa. 38.5.</note> ev'ry Tear and ev'ry ſecret
+<note n="d" place="margin">Pſal. 38.9.102.20.</note> Groan.</l>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>See, how the Lord of Life Prepare's to die;</l>
+               <l>
+                  <note n="a" place="margin">Luk. 22.44.</note> 
+                  <hi>Earneſtly Praying in an Agony:</hi>
+               </l>
+               <l>When ſufferings approach by ſlow degrees,</l>
+               <l>'Tis the beſt way to meet them on our <hi>Knees.</hi>
+               </l>
+               <l>Sinners can't ſhew too deep <hi>Humility,</hi>
+               </l>
+               <l>
+                  <note n="b" place="margin">Pſal. 95.6.</note> Intreating, for Aſſiſtance, the moſt <hi>High:</hi>
+               </l>
+               <l>In greateſt Troubles God might be obey'd;</l>
+               <l>And they bear well that <hi>Humbly</hi> beg his Aid.</l>
+               <l>But ſad's their State under God's heavy Hand</l>
+               <l>Who are too proud to <hi>Fall,</hi> too weak to <hi>Stand:</hi>
+               </l>
+               <l>His <hi>angry Storms,</hi> their Stubborn Hearts confound;</l>
+               <l>But nobly ſpare what lie's upon the Ground.</l>
+            </lg>
+            <lg>
+               <head>X.</head>
+               <l>
+                  <note n="a" place="margin">Mat. 26 47. Joh. 18.3.</note> In vain, O <hi>Judas!</hi> does thy Treaſon bring</l>
+               <l>
+                  <hi>Souldi'ers</hi> to lead thy Lord to Suffering:</l>
+               <l>
+                  <note n="b" place="margin">Luk. 2.15.</note> That <hi>heave'nly Hoſt</hi> which did attend his Birth</l>
+               <l>
+                  <note n="c" place="margin">Mat. 26.53.</note> He might command, for his Life-Guard on Earth:</l>
+               <pb n="10" facs="tcp:192029:6"/>
+               <l>
+                  <note n="d" place="margin">Mat. 16.21.</note> But He will ſuffer; and have no Defence</l>
+               <l>More hurtfull to thee than his
+<note n="e" place="margin">Mat. 27.4.</note> Innocence:</l>
+               <l>Weaker than
+<note n="f" place="margin">Jud. 15 14.</note> 
+                  <hi>Samſon</hi>'s all thy <hi>Cords</hi> wou'd prove,</l>
+               <l>Were He not held by ſtronger
+<note n="g" place="margin">Hoſ. 11.4.</note> 
+                  <hi>Bands of Love.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XI.</head>
+               <l>Cowardly Wretch! 'midſt all thy
+<note n="a" place="margin">Mat. 26 47.</note> 
+                  <hi>Staves</hi> and <hi>Swords,</hi>
+               </l>
+               <l>How doſt thou
+<note n="b" place="margin">Joh. 18.6.</note> tremble at thy Maſter's Words!</l>
+               <l>A guilty Soul, like <hi>Adam</hi>'s, make's thee fear,</l>
+               <l>When thou,
+<note n="c" place="margin">Gen. 3.8, 9, 10.</note> 
+                  <hi>God's Voice,</hi> doſt <hi>in the Garden hear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XII.</head>
+               <l>Oſten does Satan (by a wicked Heart)</l>
+               <l>To the worſt uſe, the beſt of things pervert:</l>
+               <l>
+                  <note n="a" place="margin">Mat. 26.48. Mar. 14 44.</note> 
+                  <hi>That ſame is He, take him whom I ſhall kiſs;</hi>
+               </l>
+               <l>No ſign <hi>Apoſtate!</hi> coud'ſt thou chooſe but This?</l>
+               <l>Doubly at once, thy Soul does guilty prove;</l>
+               <l>Traytor to God, and Traytor unto Love.</l>
+               <l>Did'ſt thou reſolve to make all ſure, by This</l>
+               <l>Moſt ſacred Pledge of Mankind's chaſteſt Bliſs?</l>
+               <l>The leſs ſuſpici'on it does ſtill create,</l>
+               <l>With ſigns of Love, to ruin thoſe we hate:</l>
+               <l>The wit of Woman <hi>Agrippina</hi> prov'd,</l>
+               <l>In pois'oning <hi>Claudius</hi> with the Meat he lov'd:</l>
+               <l>And,
+<note place="margin">
+                     <hi>Henry the</hi> 7th <hi>Emperour.</hi>
+                  </note> next to <hi>Judas.</hi> Rome her Monk may boaſt,</l>
+               <l>Who Murder'd <hi>Henry</hi> with the very Hoſt.</l>
+            </lg>
+            <lg>
+               <head>XIII.</head>
+               <l>
+                  <note n="a" place="margin">Mat. 26.36, 56.</note> Is this the boaſted kindneſs to your Friend!</l>
+               <l>Is this remaining faithful to the End!</l>
+               <pb n="11" facs="tcp:192029:6" rendition="simple:additions"/>
+               <l>
+                  <note n="b" place="margin">Pro. 17.17.</note> Love is moſt helpfull in Adverſity;
+<note n="a" place="margin">Sam. 16.17.</note>
+               </l>
+               <l>They ſhou'd not name it that forſake and flie.</l>
+               <l>Muſt we believe then ſuch Profeſſors ran?</l>
+               <l>
+                  <note n="c" place="margin">Jer. 17.9.</note> What more deceitful than the Heart of Man!</l>
+               <l>Falſe World! on thee no more will I depend;</l>
+               <l>No more expect in thee a conſtant Friend:</l>
+               <l>Truſting to thee is leaning on a Reed,</l>
+               <l>That let's us ſink down in our greateſt need.</l>
+            </lg>
+            <lg>
+               <head>XIV.</head>
+               <l>Dear Lord! one need not any
+<note n="a" place="margin">Matt. 26.68</note> Prophet be</l>
+               <l>To tell the <hi>Man</hi> that <hi>Smote</hi> and wounded Thee;</l>
+               <l>
+                  <note n="b" place="margin">Iſa. 53.4, 5.</note> Thy <hi>Soul</hi> was <hi>griev'd</hi> thy <hi>Body bruiſ'd</hi> by me.</l>
+               <l>For me did'ſt Thou put on Mortality,</l>
+               <l>And, for ungrateful me, did'ſt <hi>Bleed</hi> and
+<note n="c" place="margin">Rom: 5.8.</note> die.</l>
+            </lg>
+            <lg>
+               <head>XV.</head>
+               <l>What braver Reſolution cou'd He make</l>
+               <l>
+                  <note n="a" place="margin">Luk: 22 33.</note> Than, for his God, the world for to forſake?</l>
+               <l>Lord, may we alway thus prepared be</l>
+               <l>
+                  <hi>To go to Priſon and to Death with Thee;</hi>
+               </l>
+               <l>'Tis Glorious dying in ſuch Company;</l>
+               <l>
+                  <note n="b" place="margin">Rom: 8 17. 2 Tim: 2.12.</note> For if we <hi>Suffer</hi> we ſhall <hi>Reign</hi> with Thee.</l>
+            </lg>
+            <lg>
+               <head>XVI.</head>
+               <l>A Woman may be Satan's Inſtrument;</l>
+               <l>But Man is weakeſt when he gives Conſent.</l>
+               <l>When we behold
+<note n="a" place="margin">Mat: 26.69. Luk: 22.54, 55, 56, 57.</note> 
+                  <hi>Peter</hi>'s inglori'ous Fall,</l>
+               <l>(Urg'd by a <hi>Damſel</hi> in the <hi>High-Prieſt</hi>'s <hi>Hall,</hi>)</l>
+               <pb n="12" facs="tcp:192029:7"/>
+               <l>We ſee how vainly Man preſum's to ſtand,</l>
+               <l>When Heaven deny's him a ſupporting Hand;</l>
+               <l>But when this does impow'r the ſmalleſt <hi>Stone,</hi>
+               </l>
+               <l>
+                  <note n="b" place="margin">1 Sam: 17.45, 49.</note> A bold <hi>Goliath</hi> is, by It, ore'thrown.</l>
+               <l>
+                  <note n="c" place="margin">Eph: 6.11, 12, 18.</note> 'Tis Prayer, not
+<note n="d" place="margin">1 Sam: 17.8, 9, 10.</note> Boaſting, that muſt arm the Soul,</l>
+               <l>And bravely Satan's fierce Aſſaults controul.</l>
+               <l>Thoughts of our ſelves too great, of others ſmall,</l>
+               <l>Are oft forerunners of a diſmal Fall.</l>
+               <l>Big things we talk when Danger's not in view;</l>
+               <l>But, as it ſhew's it ſell, our Fears renew.</l>
+               <l>How ſtoutly ſome take Caſtles in the Air,</l>
+               <l>Who poorly, at one real Siege, deſpair.</l>
+               <l>But when, Preſumpti'on meets an overthrow,</l>
+               <l>By <hi>Peter</hi>'s <hi>Fall</hi> his Courage was improv'd;</l>
+               <l>Who more <hi>deny'd</hi> his Lord? and who more
+<note n="e" place="margin">Joh: 21.15. 16, 17, 18, 19.</note> 
+                  <hi>lov'd?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XVII.</head>
+               <l>We often promiſe to our ſelves great Joy</l>
+               <l>
+                  <note n="a" place="margin">Matt: 27, 3, 4, 5.</note> In things that moſt our inward Peace deſtroy:</l>
+               <l>Some ſeeming Pleaſure <hi>Judas</hi> might obtain;</l>
+               <l>
+                  <note n="b" place="margin">1 Tim: 6.9.</note> But ſee the <hi>Bloody end</hi> of <hi>Bloody Gain!</hi>
+               </l>
+               <l>Soon is his Mony grown ſo troubleſome,</l>
+               <l>
+                  <hi>He caſt's it down;</hi> and does at once become</l>
+               <l>A witneſs, Judge, and Executioner;</l>
+               <l>And a baſe Death to' uneaſy Life prefer.</l>
+               <l>So <hi>Judas</hi> clos'd his Treache'rous Villany;</l>
+               <l>And ſo all Traytors do deſerve to die.</l>
+               <pb n="13" facs="tcp:192029:7"/>
+               <l>On this unhappy wretch think all ſuch Men,</l>
+               <l>As, for this World, wou'd ſell their Lord agen:</l>
+               <l>The lighteſt ill-got Riches will appear</l>
+               <l>A <hi>Load to heavy</hi> for their Souls to bear.</l>
+            </lg>
+            <lg>
+               <head>XVIII.</head>
+               <l>
+                  <note n="a" place="margin">Mat: 4. to 11. 2 Cor: 2.11.</note> By what delightful way's does Satan win</l>
+               <l>Our full conſent to any damning Sin!</l>
+               <l>But when the
+<note n="b" place="margin">Heb: 11.25. Joh 20.5.</note> ſhort-liv'd Joys of Sin are paſt,</l>
+               <l>To
+<note n="c" place="margin">Rom: 6.21. Dan. 12.2.</note> ſhame he leaves our guilty Souls at laſt.</l>
+               <l>We vainly throw the fault on
+<note n="d" place="margin">Gen: 3.13,</note> 
+                  <hi>Him</hi> and
+<note n="e" place="margin">Gen: 3.12.</note> 
+                  <hi>Men;</hi>
+               </l>
+               <l>
+                  <note n="f" place="margin">Mat: 7.4. Jam. 1.14.</note> Both rightly charge it on our ſelves agen.</l>
+               <l>
+                  <note n="g" place="margin">Lam: 3.29. Eze: 14.10.</note> And ſince we'are wicked by our own <hi>Conſent</hi>
+               </l>
+               <l>'Tis juſt that we ſhou'd bear the <hi>Puniſhment.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XIX.</head>
+               <l>No wonder that <hi>Chief-Prieſts</hi> and <hi>Scribes</hi> are bent</l>
+               <l>
+                  <note n="a" place="margin">Luk: 23 10</note> So <hi>vehemently</hi> 'gainſt the Innocent.</l>
+               <l>
+                  <note n="b" place="margin">Joh. 8.44.</note> Like <hi>Children</hi> they their <hi>Father</hi> imitate,</l>
+               <l>
+                  <note n="c" place="margin">Gen: 3. to 7.</note> Who ruin'd Man in his moſt perfect ſtate.</l>
+               <l>The Devil moſt endeavours to deſtroy,</l>
+               <l>
+                  <note n="d" place="margin">Matt: 3.16, 17. Matt. 4.1.</note> When we, Gods choiceſt Bleſſings, do enjoy.</l>
+               <l>
+                  <note n="e" place="margin">Matt. 27.18.</note> Envy's that Canker-worm which ſtill devour's</l>
+               <l>The ripeſt Fruit and feed's on faireſt Flowers.</l>
+            </lg>
+            <lg>
+               <head>XX.</head>
+               <l>How pow'rfull are the Charms of wordly Gain!</l>
+               <l>
+                  <note n="a" place="margin">Joh. 19.13, 16.</note> I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reconcile's Men unto ev'ry Reign:</l>
+               <l>A <hi>Monarch's Favour</hi> make's them Sentence give</l>
+               <l>Againſt the <hi>Juſt,</hi> and let the <hi>Guilty</hi> live.</l>
+               <pb n="14" facs="tcp:192029:8"/>
+               <l>They freely vio'late the moſt ſacred Thing.</l>
+               <l>Condemn eve'n <hi>God,</hi> rather than
+<note n="b" place="margin">2 King: 5.1, 18.</note> loſe the <hi>King.</hi>
+               </l>
+               <l>If only ſuch baſe methods recommend,</l>
+               <l>No honeſt Chriſtian can be <hi>Caeſar</hi>'s <hi>Friend.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXI.</head>
+               <l>
+                  <hi>Pilate,</hi> what Folly is't to
+<note n="a" place="margin">Matt. 27.24.</note> 
+                  <hi>waſh,</hi> and then</l>
+               <l>
+                  <note n="b" place="margin">—26.</note> 
+                  <hi>Deliver</hi> up thy Lord to bloody Men?</l>
+               <l>
+                  <note n="c" place="margin">1 Joh: 1.7.</note> Thy Soul might have been <hi>cleanſed by his Blood,</hi>
+               </l>
+               <l>
+                  <note n="d" place="margin">Mat. 27.11.</note> Had'ſt thou clear'd him, when <hi>he before thee ſtood:</hi>
+               </l>
+               <l>
+                  <note n="e" place="margin">Joh: 19.12, 13, 16.</note> But tim'rous Judge! now thou do'ſt waſh in vain,</l>
+               <l>Seas can't wipe off thy Soul, ſo deep a Stain.</l>
+            </lg>
+            <lg>
+               <head>XXII.</head>
+               <l>
+                  <note n="a" place="margin">Mat. 27.25.</note> 
+                  <hi>His Blood on <g ref="char:V">Ʋ</g>s, and on our Children reſt;</hi>
+               </l>
+               <l>What Tongue has a more heavy Curſe expreſt?</l>
+               <l>No Blood of Man was e're ſo loud before;</l>
+               <l>
+                  <note n="b" place="margin">Luk. 19.43, 44. Rom: 11.20, 21, 22.</note> Plagues it has call'd, and ſtill it calls for more.</l>
+               <l>Unhappy Men! beyond Redreſs undone!</l>
+               <l>
+                  <hi>Without
+<note n="c" place="margin">Col. 1.14. Heb. 9.12, 22.</note> Chriſt's Blood there's no Remiſſion.</hi>
+               </l>
+               <l>For you, Salvation what can now procure,</l>
+               <l>Who have done all to make Damnati'on ſure,</l>
+               <l>Turning to Poiſon Heaven's onely Cure?</l>
+            </lg>
+            <lg>
+               <head>XXIII.</head>
+               <l>How chearful, <hi>Simon,</hi> ſhou'd thy Looks appear</l>
+               <l>
+                  <note n="a" place="margin">Luk. 23.26.</note> When, with thy <hi>Savi'our,</hi> thou the Croſs doſt bear?</l>
+               <l>Afflicti'ons ſurely can't too heavy be</l>
+               <l>When God himſelf does ſhare the Load with Thee;</l>
+               <l>Suff'rings are lighten'd by good Company.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:192029:8"/>
+               <head>XXIV.</head>
+               <l>Complain not <hi>Simon,</hi> of a Load ſo light;</l>
+               <l>Our Lord
+<note n="a" place="margin">Luk. 22.44.</note> Sweat Blood under a greater weight:</l>
+               <l>To
+<note n="b" place="margin">Joh. 19.17. Matt. 27.32.</note> carry on the Croſs, but Part of th' way</l>
+               <l>Is all the Burden <hi>Souldiers</hi> on thee lay;</l>
+               <l>But till our Lord thro' Life's laſt Scene has gone,</l>
+               <l>Our heavi'er <hi>Sins God</hi> makes him
+<note n="c" place="margin">Iſa. 53.4.</note> 
+                  <hi>bear
+<note n="d" place="margin">Iſa. 63.3, 5.</note> alone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXV.</head>
+               <l>
+                  <note n="a" place="margin">2 Sam. 1.24.</note> If <hi>Iſra'els Daughter</hi>'s mourn'd their mighty Saul,</l>
+               <l>
+                  <note n="b" place="margin">1 Sam. 31.3, 4. 2 Cor. 5.14, 15.</note> (Who by <hi>Himſelf</hi> more than his <hi>Foes</hi> did fall)</l>
+               <l>How ſhou'd we weep for him who <hi>Di'd for All.</hi>
+               </l>
+               <l>
+                  <note n="c" place="margin">Jer. 9.1. Pſal. 38.18.</note> O let our Eyes with pen'itent Tears or'eflow,</l>
+               <l>For all thoſe Sins which brought him down ſo low;</l>
+               <l>From Heav'n to E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth, then to the Grave and Hell;</l>
+               <l>
+                  <note n="d" place="margin">Matt. 26.38.</note> Filling his Soul with Grief unſpeakable.</l>
+               <l>
+                  <note n="e" place="margin">Tit. 1.16.</note> Since e'vry Sinner does his Lord <hi>deny,</hi>
+               </l>
+               <l>
+                  <note n="f" place="margin">Luk. 22.62.</note> With <hi>peter</hi> too let all <hi>weep bitterly.</hi>
+               </l>
+               <l>Such as neglect the preſent
+<note n="g" place="margin">2 Cor. 6.2.</note> 
+                  <hi>Graci'ous</hi> State,</l>
+               <l>Shall be condemn'd to fooliſh
+<note n="h" place="margin">Heb: 12.17.</note> 
+                  <hi>Eſau</hi>'s Fate,</l>
+               <l>
+                  <hi>Seeking the Bleſſing when it was too late.</hi>
+               </l>
+               <l>
+                  <note n="i" place="margin">Matt. 5.4. Jam 4.9.</note> What <hi>Lents of Mourning</hi> then ſhou'd Sinners keep,</l>
+               <l>
+                  <note n="k" place="margin">Luk. 13.28.</note> That they in Hell, in vain, may never <hi>weep.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXVI.</head>
+               <l>
+                  <note n="a" place="margin">Luk 23.33. Joh. 19.17.</note> See, how the Croſs aſcend's <hi>Mount Calvary;</hi>
+               </l>
+               <l>In this All great Ones of the Earth may ſee</l>
+               <pb n="16" facs="tcp:192029:9"/>
+               <l>That, in their Height, ſecure they ſhou'd not grow;</l>
+               <l>Since Troubles reach the High as well as low.</l>
+            </lg>
+            <lg>
+               <head>XXVII.</head>
+               <l>How long, O Lord, have I neglected Thee!</l>
+               <l>How long ſlipt ev'ry opportunity!</l>
+               <l>Yet now at laſt incline me to embrace</l>
+               <l>The tender offers of thy ſaving Grace:</l>
+               <l>And when I muſt lay down Mortality,</l>
+               <l>In thy great Mercy
+<note n="a" place="margin">Luk. 23.32, 40, 42, 43.</note> 
+                  <hi>Lord remember me:</hi>
+               </l>
+               <l>In that ſad moment comfortably ſay,</l>
+               <l>
+                  <hi>Thy Soul ſhall be in Paradice to day,</hi>
+               </l>
+               <l>But oh! how can I hope for to One</l>
+               <l>Of that bright Throng, which ſhall ſurround thy Throne,</l>
+               <l>When thou, dread Judge, haſt that great ſentence given,</l>
+               <l>Which ſhall divide mankind 'twixt Hell &amp; Heav'en?</l>
+               <l>What ſhare in Bliſs can one expect to have,</l>
+               <l>Who has not joyn'd with Heaven himſelf to ſave?</l>
+               <l>I ſee my Sins in ſrightful Order ſet,</l>
+               <l>As they ſhall ſtand when all the world are met.</l>
+               <l>When awak'd Conſci'ence open's wide the Book,</l>
+               <l>I (cover'd all with ſhame) at ev'ry Look,</l>
+               <l>Behold (as well as Tears will let me ſee,)</l>
+               <l>In each full Page, my own Iniquity.</l>
+               <l>I ſee fair written with a Faithful Pen,</l>
+               <l>Sins againſt God, my ſelf and other Men;</l>
+               <l>And then my Tears more ſtrongly ſtream agen.</l>
+               <pb n="17" facs="tcp:192029:9"/>
+               <l>Good God! how Miſe'rable will be my Fate</l>
+               <l>Unleſs thy Mercy, as my Sins, be great?</l>
+               <l>Beyond all ſad Examples is my Fall;</l>
+               <l>Thou haſt my Soul in Sin out done them all;</l>
+               <l>Yet think upon the pardon'd Prodigal:</l>
+               <l>When he on bended knees confeſs'd his Sin,</l>
+               <l>With Joy and Feaſting he was taken in:</l>
+               <l>May I then eaſe my labou'ring Heart once more</l>
+               <l>With this ſoft Thought, that Mercy may reſtore</l>
+               <l>A thing ſo loſt and ſo undone as I;</l>
+               <l>So, ev'ry way, involv'd in Miſery:</l>
+               <l>Mercy! the Antidote againſt deſpair:</l>
+               <l>Mercy! the peni'tent Sinner's conſtant Pray'r:</l>
+               <l>Mercy! the grateful Song of all the Bleſs'd,</l>
+               <l>Who now, thr'o Mercy, are of Heaven poſſeſs'd.</l>
+            </lg>
+            <lg>
+               <head>XXVIII.</head>
+               <l>How ſtrangely, Lord, do thy great Suffe'rings make</l>
+               <l>Inani'mate
+<note n="a" place="margin">Met. 27.51.</note> Rocks 'to rend and Earth to quake!</l>
+               <l>Yet it's more ſtrange the <hi>Jews</hi> ſhou'd not repent;</l>
+               <l>Their
+<note n="b" place="margin">Eze. 11.19.36, 26.</note> 
+                  <hi>Hearts of harder ſtone</hi> will not relent.</l>
+            </lg>
+            <lg>
+               <head>XXIX.</head>
+               <l>Has the
+<note n="a" place="margin">1 Theſ 4.16. 1 Cor. 15.52.</note> 
+                  <hi>Arch-Angel's Trump</hi> call'd up the Dead,</l>
+               <l>That <hi>many Saints</hi> forſake their quiet Bed?</l>
+               <l>'Tis ſure too ſoon; but, when their Savi'our dies,</l>
+               <l>As if they wou'd make way for Him,
+<note n="b" place="margin">Mat. 27.52,</note> 
+                  <hi>they riſe.</hi>
+               </l>
+               <pb n="18" facs="tcp:192029:10"/>
+               <l>
+                  <hi>Graves Open,</hi> as if ev'ry one wou'd have</l>
+               <l>Their Lord chooſe It, for his <hi>embalmed</hi> Grave:</l>
+               <l>And by their Bodies riſing now in Haſte,</l>
+               <l>
+                  <note n="c" place="margin">1 Theſ. 4.13 14.15, 16. Joh. 6.20.</note> They ſhew what He will do for all at laſt.</l>
+            </lg>
+            <lg>
+               <head>XXX.</head>
+               <l>Is the World ſtill a place of Grief and Pain,</l>
+               <l>To which the Saints do thus come back again?</l>
+               <l>It ſeems It is; they make ſo ſhort a ſtay;</l>
+               <l>Juſt
+<note n="a" place="margin">Mat. 27.53.</note> 
+                  <hi>ſee their Friends</hi> and haſten then away:</l>
+               <l>(As if they came onely to let us know</l>
+               <l>
+                  <note n="b" place="margin">Rom: 8.10. Rev. 6.9, 10, 11.</note> Souls <hi>live</hi> above, whilſt Bodies
+<note n="c" place="margin">1 Theſ. 4.14.15.</note> ſleep below:)</l>
+               <l>So riſing Waves advance unto the Shore,</l>
+               <l>Salute, run back, and then are ſeen no more.</l>
+            </lg>
+            <lg>
+               <head>XXXI.</head>
+               <l>When, (from
+<note n="a" place="margin">Luk. 1.48.</note> 
+                  <hi>A Bleſſed Mother's
+<note n="b" place="margin">— 1.35.</note> hallow'd Womb,</hi>)</l>
+               <l>The infant Savi'our of the World was come,</l>
+               <l>Heav'n, with a
+<note n="c" place="margin">— 2.9.</note> Glori'ous new created Ray,</l>
+               <l>Made Night more fair and chearful than the day:</l>
+               <l>But, when he di'd, the
+<note n="d" place="margin">— 23.44, 45.</note> Sun withdrew his Light,</l>
+               <l>And day became more diſmal than the Night.</l>
+            </lg>
+            <lg>
+               <head>XXXII.</head>
+               <l>Let no Man wonder at the Mourning Sun,</l>
+               <l>(As if the work of Nature were undone,)</l>
+               <l>When Its great God,
+<note n="a" place="margin">Matt. 27.46.</note> the Brightneſs of his Face,</l>
+               <l>Vail's from his deareſt Son in his diſgrace.</l>
+               <pb n="19" facs="tcp:192029:10"/>
+               <l>Never before has he <hi>forſaken</hi> been;</l>
+               <l>Fclipſe ſo full of wonder ne'r was ſeen.</l>
+               <l>Kind Savio'ur! that wou'd bear ſo ſtrange a Night,</l>
+               <l>That we might live in an
+<note n="b" place="margin">Joh. 8.12. Col 1.12.</note> eternal Light;</l>
+               <l>Enjoying ſtill the
+<note n="c" place="margin">1 Cor: 13.14. Rev. 21.23, 24. Mat: 5.8.</note> 
+                  <hi>Beatific</hi> Sight.</l>
+            </lg>
+            <lg>
+               <head>XXXIII.</head>
+               <l>
+                  <note n="a" place="margin">Joh. 19.25. Luk. 23 27, 49.</note> With flowing Eyes well might the <hi>Mother</hi> ſee</l>
+               <l>Her guiltleſs Son hang on the
+<note n="b" place="margin">Deut. 21.22, 23. Gal. 3.13.</note> 
+                  <hi>Curſed Tree;</hi>
+               </l>
+               <l>From Her alone he took Mortality.</l>
+               <l>Had her too watchful Eyes but loſt their ſight,</l>
+               <l>When
+<note n="c" place="margin">Mar. 15.33.</note> 
+                  <hi>the whole Earth</hi> was overſpread with Night,</l>
+               <l>The burden of her Grief had been more light.</l>
+               <l>If <hi>David</hi> when he ſaw his <hi>Abſalem</hi>
+               </l>
+               <l>
+                  <note n="d" place="margin">2 Sam. 18.9, 10.14.15, 33. 2 Sam. 19.4.</note> To the ſad cloſe of a Rebellion come,</l>
+               <l>Did all his Joys and Royal Robes lay by,</l>
+               <l>And freely vent his Grief in Secreſie;</l>
+               <l>What Tongue of Man can ſpeak? what Pen can write</l>
+               <l>This <hi>Mothers</hi>
+                  <note n="e" place="margin">Luk 2.35.</note> great concern at ſuch a ſight?</l>
+               <l>Yet Grief may gueſs how by
+<note n="f" place="margin">Joh. 19.25.</note> the <hi>Croſs ſhe ſtood,</hi>
+               </l>
+               <l>Shedding her Tears as faſt as Chriſt ſhed Blood:</l>
+               <l>Lamenting thus, art thou for ever gone?</l>
+               <l>O ſweeteſt <hi>Jeſus!</hi> O my Son, my Son!</l>
+               <l>Againſt the <hi>Jews</hi> ſhe cou'd not but complain,</l>
+               <l>Are all his Wonders, all his Cares in vain?</l>
+               <l>Did he in Love,
+<note n="g" place="margin">Luk. 19.41, 42.</note> weep for your ſuture ſtate,</l>
+               <l>And does your Malice ſtill freſh Grief create?</l>
+               <pb n="20" facs="tcp:192029:11"/>
+               <l>Wilt thou, unfortunate <hi>Jeruſalem!</hi>
+               </l>
+               <l>So kind a Lord to greater Pains condemn?</l>
+               <l>But unto you his Grief in vain I tell;</l>
+               <l>The <hi>very
+<note n="h" place="margin">Mat. 27.52, 53.</note> dead</hi> are grown more ſenſible.</l>
+               <l>Yet ceaſe at laſt; ſurely the worſt is done:</l>
+               <l>O my dear Savio'ur! O my Son, my Son!</l>
+            </lg>
+            <lg>
+               <head>XXXIV.</head>
+               <l>See from the Croſs how ſhe attends his Herſe!</l>
+               <l>At ev'ry ſtep new Grief her Heart does pierce.</l>
+               <l>And yet no weak diſtruſt in her appear's;</l>
+               <l>The Chriſti'an's Hope ore'come's the Mother's Fears.</l>
+               <l>
+                  <note n="a" place="margin">Mar. 16.10. Luk: 23.55.</note> She weep's; look's on him lying dead like men;</l>
+               <l>Shee look's upon him, and ſhe weep's agen.</l>
+               <l>Yet ſhe believ's a Joyful Morn will come,</l>
+               <l>When riſing like a God, he ſhall deceive the Tomb:</l>
+               <l>So drooping Flow'ers, ſet in the ground in Rain,</l>
+               <l>With greater Glory ſoon ſpring up again.</l>
+            </lg>
+            <lg>
+               <head>XXXV.</head>
+               <l>
+                  <note n="a" place="margin">Joh. 19.39, 40.</note> 'Tis kind, tho' needleſs, to <hi>embalm</hi> God's Son,</l>
+               <l>
+                  <note n="b" place="margin">Act. 13.35, 37.</note> 
+                  <hi>Whoſe Body cannot ſee Corrupti'on.</hi>
+               </l>
+               <l>Death, can't deſtroy One who, from death, can ſave;</l>
+               <l>And being Buri'd, He perfume's the Grave.</l>
+               <l>Yet to our Savio'ur ſuch Offici'ous Love,</l>
+               <l>Sweeter than all your Spice, ſhall ever prove.</l>
+            </lg>
+            <lg>
+               <head>XXXVI.</head>
+               <l>Spend not, ye Jealous Prieſts!
+<note n="a" place="margin">Matt: 27. from 62<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0 End</note> your care in vain,</l>
+               <l>
+                  <note n="b" place="margin">Mar. 8.31, 10, 34.</note> 
+                  <hi>After three days, the Chriſt ſhall riſe again.</hi>
+               </l>
+               <pb n="21" facs="tcp:192029:11"/>
+               <l>Your wit can't finde, nor can your Malice have</l>
+               <l>Bonds more ſecure, or ſtronger than the Grave:</l>
+               <l>Death
+<note n="c" place="margin">Act 2 24.</note> can't hold him, and can Man's powe'r defer</l>
+               <l>One moment's riſing from the Sepulchre?</l>
+               <l>His Pow'r on
+<note n="d" place="margin">Mar. 5.41, 42. Luk. 7.12.14, 15, — 8, 55. Joh. 11.39, 43, 44.</note> other Bodies you have known,</l>
+               <l>Shall he do more for them than for his Own?</l>
+               <l>Ceaſe then your vain Attempt; 'twill only prove</l>
+               <l>Your Watch and Malice
+<note n="e" place="margin">Cant. 8.6.</note> weaker than his Love:</l>
+               <l>His Love that brought him from a Glori'ous State,</l>
+               <l>To
+<note place="margin">Joh. 10.17.18.</note> lay his Body down and then tranſlate.</l>
+            </lg>
+            <lg>
+               <head>XXXVII.</head>
+               <l>In vain
+<note n="a" place="margin">Mat: 17.64.</note> (leſt any ſhou'd their Maſter <hi>ſteal</hi>)</l>
+               <l>
+                  <note n="b" place="margin">— 66.</note> Upon the <hi>Stone</hi> you ſet both <hi>Watch</hi> and <hi>Seal;</hi>
+               </l>
+               <l>
+                  <note n="c" place="margin">— 51, 52.</note> Both <hi>Graves</hi> and <hi>Rocks were open'd yeſterday,</hi>
+               </l>
+               <l>To <hi>morrow</hi> will not <hi>One Tomb-ſtone</hi> give way?</l>
+            </lg>
+            <lg>
+               <head>XXXVIII.</head>
+               <l>
+                  <note n="a" place="margin">Jer. 23.29. Heb. 4.12.</note> Strong is the working,
+<note n="b" place="margin">Iſa. 1.18.</note> great the change of Grace;</l>
+               <l>A defil'd Soul it makes an holy Place:</l>
+               <l>Our <hi>Magdalen,</hi> ſince God her Heart had turn'd,</l>
+               <l>With moſt refined flames has ever burn'd:</l>
+               <l>
+                  <note n="c" place="margin">Luk. 7.37.</note> Idols on Earth enjoy'd too long her Love;</l>
+               <l>From that bleſſ'd Hour 'twas <hi>ſet on things above.</hi>
+               </l>
+               <l>All
+<note n="d" place="margin">Luk. 8.7.</note> Devi'ls diſlodg'd, as a more worthy Gueſt,</l>
+               <l>The
+<note n="e" place="margin">Luk. 7.44. 44, 45, 46, 47.</note> Lord ſhe gladly took into her Breaſt.</l>
+               <l>
+                  <note n="f" place="margin">Luk. 7.38.</note> She <hi>wept</hi> and <hi>waſh'd</hi> his <hi>Feet</hi> with joyful <hi>Tears,</hi>
+               </l>
+               <l>Bowing her Head to <hi>wipe them with her Hairs;</hi>
+               </l>
+               <l>Then, having <hi>kiſs'd She did anoint his Feet;</hi>
+               </l>
+               <l>With ſuch kind Gratitude did his free Pardon meet!</l>
+               <l>
+                  <note n="g" place="margin">Luk. 8.1, 2, 3.</note> Living, he prov'd all day her Soul's delight,</l>
+               <l>And entertain'd her waking Thoughts at Night.</l>
+               <pb n="22" facs="tcp:192029:12"/>
+               <l>Nor, with his Life, cou'd her Affecti'on end,</l>
+               <l>It make's her on his
+<note n="h" place="margin">Mat. 27.55, 56.</note> Croſs and
+<note n="i" place="margin">Luk. 23.55.</note> Grave attend.</l>
+               <l>Tho' night and Labour ſummon all to Sleep,</l>
+               <l>Love does her melting Eye-lids waking keep:</l>
+               <l>Her Body no refreſhing Slumber know's,</l>
+               <l>As if ſhe too did <hi>watch</hi> her Lord's Repoſe.</l>
+               <l>To her how tedi'ous is the Mournful Night!</l>
+               <l>No colder Reg'ion long's ſo much for Light,</l>
+               <l>As her benighted Soul for dawning Day:</l>
+               <l>And tho' the Sun be early on his way,</l>
+               <l>It ſeem's too long for his Approach to ſtay.</l>
+               <l>Thr'o the
+<note n="k" place="margin">Joh: 20.1.</note> dark Cold (fearing the leaſt neglect)</l>
+               <l>
+                  <hi>Love,</hi> that had
+<note n="l" place="margin">Luk: 24, 1.</note> fill'd her hands, her feet does well di<g ref="char:EOLhyphen"/>rect.</l>
+               <l>We ſee by This, and wonder when we ſee,</l>
+               <l>How generous and bold true Love can be.</l>
+               <l>Cou'd <hi>David</hi> enter on Life's Stage agen,</l>
+               <l>He
+<note n="m" place="margin">2 Sam: 1.26. 1 Sam. 18.1.</note> wou'd not praiſe ſo much the Love of Men;</l>
+               <l>His <hi>Jonathan</hi>'s out done by <hi>Magdalen.</hi>
+               </l>
+               <l>And ſince love come's with
+<note n="n" place="margin">Mar: 16.1, 2.</note> Spices and with Speed,</l>
+               <l>Tho' her rais'd Lord can no embalming need,</l>
+               <l>He rate's her Will as highly as the Deed.</l>
+               <l>
+                  <note n="o" place="margin">Luk: 7.13.</note> Her <hi>preci'ous Spikenard</hi> he did once receive;</l>
+               <l>Now 'tis enough ſhe did deſigne to give.</l>
+               <l>Lovers, like
+<note n="p" place="margin">Gen: 29, 20, 30.</note> 
+                  <hi>Jacob,</hi> purchaſe their delights</l>
+               <l>with many toilſome days and reſtleſs nights;</l>
+               <l>Yet think it great Reward for all they 've paſt,</l>
+               <l>To' enjoy the Object of their Love at laſt:</l>
+               <l>But
+<note n="q" place="margin">Pro: 13, 14.</note> diſappointment of their Hopes and care,</l>
+               <l>Sink's Sorrow down into a damn'd Diſpair.</l>
+               <pb n="23" facs="tcp:192029:12"/>
+               <l>How pleaſ'd had our great female Convert been,</l>
+               <l>Cou'd ſhe her Lord, tho' in the Tomb, have ſeen:</l>
+               <l>But
+<note n="r" place="margin">Joh: 20.12.13.</note> Grief or'ewhelm's her at an empty Grave;</l>
+               <l>Miſſing that Lord who all her ſins
+<note n="ſ" place="margin">Luk: 7.4.</note> forgave.</l>
+               <l>In vain ſhe asks
+<note n="t" place="margin">Joh: 20.25.</note> 
+                  <hi>where her dear Lord was Laid;</hi>
+               </l>
+               <l>More by her <hi>Looks</hi> than all her <hi>words</hi> ſhe ſaid.</l>
+               <l>Her Tears with moſt perſwaſive Rheto'rick ſhow</l>
+               <l>The'im pat'ient longing of her heart, to know</l>
+               <l>Where ſhe the
+<note n="u" place="margin">Joh: 20, 15.</note> pious Preſent might beſtow.</l>
+               <l>But
+<note n="w" place="margin">Joh: 20, 16.</note> hearing Chriſt, it cannot be expreſt,</l>
+               <l>What mighty Paſſi'ons ſtrove within her Breaſt,</l>
+               <l>Tokens of great Reſpect they Both conſer;</l>
+               <l>
+                  <note n="x" place="margin">Joh: 20.16.</note> She wellcome's Him to Life; He honour's Her.</l>
+               <l>
+                  <note n="y" place="margin">Matt. 28.9. Joh: 20.17. 2 Kings 4.17.</note> 
+                  <hi>His Feet</hi> with haſty Eagerneſs <hi>She kiſt;</hi>
+               </l>
+               <l>
+                  <note n="z" place="margin">Matt. 28.10. Joh: 20.17. Mark 16.9.</note> And He makes her the <hi>firſt Evangeliſt.</hi>
+               </l>
+               <l>
+                  <note n="a" place="margin">Joh: 20.18.</note> This Office ſhe perform'd and with her Love</l>
+               <l>Still follow'd him unto the Seats above.</l>
+               <l>When (Conqu'erour like,)
+<note n="b" place="margin">Eph: 4 8.</note> 
+                  <hi>He' Aſcended up on high</hi>
+               </l>
+               <l>And <hi>Captive</hi> bravely <hi>led Captivity,</hi>
+               </l>
+               <l>The Beſt, tho' laſt, half of her days was giv'en</l>
+               <l>To him; on Earth ſhe ſtill convers'd with Heav'en.</l>
+               <l>'Tis Gratitude <hi>unto that
+<note n="c" place="margin">Ro: 14.8.</note> God to live,</hi>
+               </l>
+               <l>Who does our <hi>many
+<note n="d" place="margin">Iſa. 1.18.</note> ſcarlet Sins forgive.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXXIX.</head>
+               <l>How wonderfully did our Savi'our come,</l>
+               <l>From
+<note n="a" place="margin">Luk: 23 53.</note> 
+                  <hi>Death's</hi> and from
+<note n="b" place="margin">Matt. 1.23, 25.</note> a <hi>Womans ſealed Womb!</hi>
+               </l>
+               <l>Of <hi>Mary</hi> He was born to
+<note n="c" place="margin">Pſal. 22.6, 7, 8. Iſa: 53, 3. Heb: 12 1. Phil: 2 8, 9.</note> Grief and Scorn;</l>
+               <l>But, <hi>from the Dead,</hi> to Joy and Honour born.</l>
+               <l>
+                  <note n="d" place="margin">1 Cor. 15.20. Col. 1.18.</note> 
+                  <hi>Firſt-born</hi> He was too for our Happineſs,</l>
+               <l>
+                  <note n="e" place="margin">Rom: 11.16. Lev. 23.10.</note> As the <hi>firſt-Fruits</hi> ſucceeding Crops did bleſs.</l>
+               <pb n="24" facs="tcp:192029:13" rendition="simple:additions"/>
+               <l>'Twas fit ſo great a Perſon ſhou'd obtain,</l>
+               <l>To Virgin-Places,
+<note n="f" place="margin">Joh. 19.41.42.</note> 
+                  <hi>where no Man had lain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXXX.</head>
+               <l>Of Angels, as of Men, ſure Chriſt is Lord;</l>
+               <l>Such conſtant ſervice they to him afford:</l>
+               <l>
+                  <note n="a" place="margin">Luk. 2.14.</note> 
+                  <hi>Glory to God on high, and Peace on Earth,</hi>
+               </l>
+               <l>Was their ſweet <hi>Anthem</hi> at his wondrous <hi>Birth.</hi>
+               </l>
+               <l>
+                  <note n="b" place="margin">1 Pet. 4.11. 1 Cor. 10.31. Heb. 12.14.</note> (The ſame great ends may all our Acti'ons have,</l>
+               <l>Untill our borrow'd Duſt
+<note n="c" place="margin">Ecl. 12.7.</note> return's to th' Grave.)</l>
+               <l>No ſooner was his Glori'ous Combate paſt,</l>
+               <l>But, from above,
+<note n="d" place="margin">Mat. 4.11.</note> they to his Aid did haſte.</l>
+               <l>(
+<note n="e" place="margin">Heb. 1.14. Pſal. 91.13.</note> Such powe'rful Guards his members ſtill deſend,</l>
+               <l>While with the Prince of Darkneſs they contend.)</l>
+               <l>When with an heavy load of Sin and Grief,</l>
+               <l>
+                  <note n="f" place="margin">Luk. 22 43.</note> He ſunk, one ſwiftly flew to his Relief.</l>
+               <l>And when our Lord (after his
+<note n="g" place="margin">Mat. 12.40.</note> 
+                  <hi>three days ſleep,</hi>
+               </l>
+               <l>No longer his cold Bed of death wou'd keep,</l>
+               <l>But) was reſolv'd
+<note n="h" place="margin">Mat. 28.1, 2, 3, 4.</note> 
+                  <hi>to riſe at th' dawn of Day,</hi>
+               </l>
+               <l>
+                  <hi>Another came and roll'd the Stone away:</hi>
+               </l>
+               <l>
+                  <hi>Like lightning bright his Countenance did grow;</hi>
+               </l>
+               <l>
+                  <hi>And all his Raiment was as white as ſnow:</hi>
+               </l>
+               <l>At his deſcending well might <hi>Souldi'ers ſhake,</hi>
+               </l>
+               <l>When th' <hi>Earth</hi> It ſelf, on which they ſtood, did <hi>Quake.</hi>
+               </l>
+               <l>So pale they grew, one might have thought them then,</l>
+               <l>Not the <hi>Grave</hi>'s <hi>Keepers,</hi> but Its Gueſts, <hi>dead Men:</hi>
+               </l>
+               <l>And when he ſaw the mighty work was done,</l>
+               <l>He <hi>ſate</hi> in Triumph on the Conquer'd <hi>Stone.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
